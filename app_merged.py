@@ -856,7 +856,7 @@ with st.sidebar:
     current  = SECTIONS[selected]
 
     st.markdown('<hr style="border:none;border-top:1px solid rgba(0,212,180,0.1);margin:12px 0">', unsafe_allow_html=True)
-    st.markdown('<div style="font-size:10px;color:#334455;font-family:monospace;line-height:1.8">Built with Streamlit + Python<br>OpenAI GPT-5.2 · DuckDuckGo search<br>No HTML · No CSS · No JS</div>', unsafe_allow_html=True)
+    st.markdown('<div style="font-size:10px;color:#334455;font-family:monospace;line-height:1.8">Built By Gulshan </div>', unsafe_allow_html=True)
 
 
 # ══════════════════════════════════════════════════════════════════
