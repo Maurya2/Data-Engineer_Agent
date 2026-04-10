@@ -606,7 +606,7 @@ def render_landing():
     st.markdown("""
     <div style="margin-bottom:20px">
         <div style="font-size:26px;font-weight:700;color:#c8ddf0;margin-bottom:4px">⬡ Data Engineer Desk</div>
-        <div style="font-size:14px;color:#8899aa">Complete reference + GPT-5.2 AI agent that explains any concept, finds docs and provides real links</div>
+        <div style="font-size:14px;color:#8899aa"></div>
     </div>
     """, unsafe_allow_html=True)
 
